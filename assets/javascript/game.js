@@ -6,10 +6,8 @@ var crystal1 = 0;
 var crystal2 = 0;
 var crystal3 = 0;
 var crystal4 = 0;
-
-var crystalValue1 = 0;
 var number = 0;
-var finalNumber = 0;
+
 
 var win = 0;
 var loss = 0;
